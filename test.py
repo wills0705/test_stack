@@ -1,1 +1,2 @@
-print('yes')
+print('no')
+print('day2')
